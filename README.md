@@ -62,8 +62,7 @@ A stack Kubernetes fornece um ambiente completo para desenvolvimento local, com:
 
 - Docker  
 - Kind  
-- kubectl  
-- (Opcional) Lens ou k9s  
+- kubectl 
 
 ---
 
