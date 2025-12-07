@@ -26,3 +26,5 @@ infra/cluster/bookplatform-config
 *.iml
 *.ipr
 .cache/
+k8s/.cluster
+infra/bookplatform-config
